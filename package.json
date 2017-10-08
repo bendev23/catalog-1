@@ -1,0 +1,21 @@
+{
+  "name": "nodeproxything",
+  "version": "0.0.0",
+  "description": "Proxies requests to and from api.roblox.com with access-control-allow-origin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BowtieMod",
+  "dependencies": {
+    "http-proxy": "~1.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bowtiemod/api-roblox-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bowtiemod/api-roblox-proxy/issues"
+  }
+}

@@ -1,3 +1,2 @@
-# catalog
-Fetched rblx catalog. Permission granted in text from Roblox Co. website.
-lol
+# api-roblox-proxy
+Proxies requests to and from api.roblox.com with access-control-allow-origin.
